@@ -11,3 +11,5 @@ Saiba mais em (http://www.mateusfurrier.com.br)
 Gostou do curso? Quer mais? Ajude com uma doação, até um café é válido =)
 
 Subindo remoto
+
+utilizando stash
