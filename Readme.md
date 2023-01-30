@@ -17,3 +17,7 @@ utilizando stash
 
 
 Gostaram do versionamento?
+
+
+
+remover com revert
